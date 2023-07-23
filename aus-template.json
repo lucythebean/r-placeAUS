@@ -1,0 +1,11 @@
+{
+  "contact": "@bean54678978 on discord",
+  "templates": [
+    {
+      "name": "r/placeAUS flag",
+      "sources": ["https://lucythebean.github.io/r-placeAUS/aussie-flag.png"],
+      "x": 132,
+      "y": 1022
+    }
+  ]
+}
